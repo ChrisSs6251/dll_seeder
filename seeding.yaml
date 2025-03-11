@@ -49,7 +49,7 @@ priority:
 # Verify checks the server name contains all words listed split by whitespace
 #  {
 #    about: Saucymuffin,
-#    address: 192.169.95.146:9075,
+#    address: 176.57.178.127:28100,
 #    verify: BEER
 #  }
 
