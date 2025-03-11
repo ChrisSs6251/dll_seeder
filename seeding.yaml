@@ -19,7 +19,7 @@ priority:
   # Can be modified on a server-by-server basis with a "min_players" option on a priority server.
   # 0 - start the seed and wait indefinitely
   # 2 or more - only help out if others are on and trying
-  min_players: 2
+  min_players: 8
 
   # List of servers to seed
   # Configure servers to seed by "ip:port" or with keywords to find from the steam server list
@@ -67,7 +67,7 @@ server_query_timeout: 15
 query_timeout_limit: 6
 # Check if name is in the player list
 check_idle_kick: false
-player_name: SodiumEnglish
+player_name: ChrissDLL
 
 
 # When out of servers, search the steam server list for more seeding servers
